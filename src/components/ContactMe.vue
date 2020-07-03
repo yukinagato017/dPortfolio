@@ -4,13 +4,17 @@
       <div class="pic" :style="contactVector"></div>
       <div class="form">
         <h1>Get in touch</h1>
-        <form name="contact" netlify>
-          <input type="text" name="name" placeholder="Name" required /><br />
-          <input type="email" name="email" placeholder="Email" required /><br />
-          <textarea name="message" placeholder="Message" required></textarea
-          ><br />
-          <button type="submit" class="btn-default">Send</button>
-        </form>
+       <form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
       </div>
     </div>
   </div>
