@@ -9,7 +9,6 @@
           <input type="email" name="email" placeholder="Email" required /><br />
           <textarea name="message" placeholder="Message" required></textarea
           ><br />
-          <div data-netlify-recaptcha="true" class="contact-recaptcha"></div>
           <button type="submit" class="btn-default">Send</button>
         </form>
       </div>
