@@ -4,7 +4,7 @@
       <div class="pic" :style="contactVector"></div>
       <div class="form">
         <h1>Get in touch</h1>
-        <form name="contact" method="POST" netlify>
+        <form name="contact" netlify>
           <input type="text" name="name" placeholder="Name" required /><br />
           <input type="email" name="email" placeholder="Email" required /><br />
           <textarea name="message" placeholder="Message" required></textarea
