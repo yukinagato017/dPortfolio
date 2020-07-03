@@ -5,10 +5,7 @@
       <div class="form">
         <h1>Get in touch</h1>
         <form name="contact" hidden method="POST" data-netlify="true">
-          <input type="hidden" name="form-name" value="Name" /><input
-        type="text"
-        name="name"
-      />
+           <input type="hidden" name="form-name" value="ask-question" />
           <input type="text" name="name" placeholder="Name" required /><br />
           <input type="email" name="email" placeholder="Email" required /><br />
           <textarea name="message" placeholder="Message" required></textarea
