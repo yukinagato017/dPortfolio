@@ -268,7 +268,7 @@ export default {
         }
       }
       .card {
-        width: 400px;
+        width: 360px;
         border-radius: 10px;
         margin: 15px 1vw;
         height: auto;
