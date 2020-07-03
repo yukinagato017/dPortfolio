@@ -22,7 +22,8 @@
               I love developing website and deploy it to real world. I am
               knowledgeable in Front End programs like HTML, CSS/SCSS,
               Javascript, Bootsrap 4 and Javacript Framework Vue Js. I know some
-              tools for Web Design like Adobe Photoshop and Figma.
+              tools for Web Design like Adobe Photoshop and Figma. I also know
+              about RESTful API and Git.
             </p>
           </div>
         </div>
