@@ -19,8 +19,8 @@
               of Web Development in 2019. I also have 2 years working experience as a Customer Care Support. <br />
               <br />
               I love developing website and deploy it to real world. I am
-              knowledgeable in Front End programs like HTML, CSS/SCSS,
-              Javascript, Bootsrap 4, Git, RESTful API and Vue Js. I know some
+              knowledgeable in programs like HTML, CSS/SCSS,
+              Javascript, Bootsrap 4,PHP, Git, RESTful API and Vue Js. I know some
               tools for Web Design like Adobe Photoshop and Figma.
             </p>
           </div>
