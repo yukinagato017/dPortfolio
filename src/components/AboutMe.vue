@@ -13,17 +13,15 @@
           <div class="title">
             <h1>About Me</h1>
             <p>
-              Hi! I'm Jeffrey Agustin, I'm graduated Bachelor of Science in
-              Computer Science in University of Manila. I'm 20 years old from
-              Malabon City. I am Volunteer at Aninal Rescue Ph as Web Developer
-              and maintaining their website. I also graduated in TESDA by course
-              of Web Development in 2019. <br />
+              Hi! I'm Jeffrey Agustin, I'm graduated of Bachelor of Science in
+              Computer Science in University of Manila. I am Volunteer at Aninal Rescue Ph as Web Developer
+              and maintaining their website since 2019. I also graduated in TESDA by course
+              of Web Development in 2019. I also have 2 years working experience as a Customer Care Support. <br />
               <br />
               I love developing website and deploy it to real world. I am
               knowledgeable in Front End programs like HTML, CSS/SCSS,
-              Javascript, Bootsrap 4 and Javacript Framework Vue Js. I know some
-              tools for Web Design like Adobe Photoshop and Figma. I also know
-              about RESTful API and Git.
+              Javascript, Bootsrap 4, Git, RESTful API and Vue Js. I know some
+              tools for Web Design like Adobe Photoshop and Figma.
             </p>
           </div>
         </div>
