@@ -161,7 +161,7 @@ textarea {
   }
   .btn-default {
     @include btn;
-    background: linear-gradient(75deg, #ec7063, #5dade2);
+    background: linear-gradient(75deg, #EB984E, #EB984E);
     color: #fff;
     margin: 2% 5%;
   }
