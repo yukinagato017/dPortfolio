@@ -18,12 +18,7 @@
                 src="../assets/icons8-gmail-96.png"
                 class="size"
             /></a>
-            <a href="www.facebook.com/jufurinitsuga">
-              <img
-                alt="github icon"
-                src="../assets/icons8-facebook-96.png"
-                class="size"
-            /></a>
+  
             <a href="https://www.linkedin.com/in/jeffrey-agustin-041b30148">
               <img
                 alt="github icon"
