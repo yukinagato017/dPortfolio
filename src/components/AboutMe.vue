@@ -5,7 +5,7 @@
         <div class="image">
           <img
             alt="my picture"
-            src="../assets/105734608_2655244054749875_3068974426866510651_n.jpg"
+            src="https://media.licdn.com/dms/image/D5603AQHt7ujZieF1fA/profile-displayphoto-shrink_200_200/0/1674236653139?e=1682553600&v=beta&t=Fj_B72pefH0JYAYlNivScUUsxAVsMgz1-zTR0hobJbs"
             class="myPic"
           />
         </div>
